@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://d.pcs.baidu.com/file/ea387624cj2c42a8d5adc575bc3003df?fid=2039186992-250528-757513090859148&dstime=1596373134&rt=sh&sign=FDtAERVY-DCb740ccc5511e5e8fedcff06b081203-6foUxm6xEMmgpL1ovWqq22%2B8E50%3D&expires=1h&chkv=1&chkbd=0&chkpc=et&dp-logid=4984506909716548444&dp-callid=0&shareid=1897119619&r=421069987&vip=0&filename=PCKM80_11_OTA_0100_all_VN1xG5oEP7My.ozip
+  ROM_NAME: Color
   TZ: Asia/Shanghai
 
 jobs:
